@@ -1,0 +1,12 @@
+id: QmQfnaePgtRXDvuqW97u9UHL7XRjuwKjYYkrBdEBMJ4eGy
+description: ""
+tags: []
+domains:
+    - GeneratedDomain
+source:
+    paths:
+        - /
+    branch: main
+    github:
+        id: 1209322035
+        fullname: f-krs/tb_website_krs
